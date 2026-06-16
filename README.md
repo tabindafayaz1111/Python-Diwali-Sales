@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes Diwali sales data to identify purchasing patterns of specific customer segments. The focus is on unmarried women aged 26–35 from the states of Uttar Pradesh (UP), Maharashtra, and Karnataka, working in IT, Healthcare, and aviation sectors. The analysis determines their likelihood of buying products from **food**, **clothing**, and **electronics** categories.
 
-## Dataset
+## Datasets
 - **Product_ID**: Unique identifiers for products (e.g., P00265242, P00110842).
 - **Orders**: Number of orders placed for each product.
 - **Customer segments**: Demographic and professional details (age, marital status, state, occupation).
